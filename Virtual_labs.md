@@ -5,8 +5,6 @@
 * **Prerequisites** :
     * **Download the latest version of VirtualBox: https://www.virtualbox.org/wiki/Downloads**
     * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
-    * **To be defined:**
-        - [+] To be defined
 
 * **Virtual lab reports** :
     * **VM_1216:**
