@@ -10,6 +10,9 @@
     * **VM_546:**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
+    * **VM_1710:**
+        - [+] Tags: Reconnaissance, exploit, privilege escalation
+        - [+] Targets: gain access, root
     * **VM_1216:**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
