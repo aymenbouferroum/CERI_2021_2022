@@ -20,6 +20,8 @@
         - Virtual Lab exam: 10h00 - 11h30 = 1h30
         - Virtual Lab exam: 13h00 - 14h30 = 1h30
 
+* **Discord link if you have any questions** : https://discord.gg/TMZ82sE9
+
 ## 📢 Information : UCE "Application"
 
 * **Real lab : 10h30 (9h course + 1h30 exam)**
