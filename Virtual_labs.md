@@ -7,9 +7,9 @@
     * **Download the latest version of Kali: https://www.kali.org/get-kali/#kali-virtual-machines**
 
 * **Virtual lab reports** :
+    * **VM_546:**
+        - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
+        - [+] Targets: webadmin, gain access, root
     * **VM_1216:**
-        - [+] Tags: Reconnaissance, brute force, exploit, web
-        - [+] Targets: webadmin, user, root
-    * **VM_1216:**
-        - [+] Tags: Reconnaissance, brute force, exploit, web
-        - [+] Targets: webadmin, user, root
+        - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
+        - [+] Targets: webadmin, gain access, root
