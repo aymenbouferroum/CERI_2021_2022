@@ -1,4 +1,4 @@
-# CERI_2021/2022 (LAST UPDATED ON October 2 2021)
+# CERI_2021/2022
 
 ## 📢 Information : UCE "Sécurité Web"
 
