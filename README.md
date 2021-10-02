@@ -1,23 +1,27 @@
-# CERI_2021/2022
+# CERI_2021/2022 (LAST UPDATED ON October 2 2021)
 
-Planning UCE "Sécurité Web" : 10h30 CM et 16h30 TP = Total 27h
+## 📢 Information : UCE "Sécurité Web"
 
-Jeudi Octobre 7:
-CM  8.30 - 11.30 = 3h
-TP 13.00 - 17.30 = 4h30
+* **Course : 10h30 (9h course + 1h30 exam)**
+* **Virtual Lab : 16h30 (13h30 course + 3h exam)**
 
-Jeudi Octobre 28:
-CM  8.30 - 11.30 = 3h
-TP 13.00 - 17.00 = 4h30
+* **Planning:**
+    * **Jeudi October 7:**
+        - Course: 8h30 - 11h30 = 3h
+        - Virtual Lab: 13h00 - 17h30 = 4h30
+    * **Jeudi October 28:**
+        - Course: 8h30 - 11h30 = 3h
+        - Virtual Lab: 13h00 - 17h30 = 4h30
+    * **Jeudi November 25:**
+        - Course: 8h30 - 11h30 = 3h
+        - Virtual Lab: 13h00 - 17h30 = 4h30
+    * **Jeudi December 2:**
+        - Course exam: 8h30 - 10h00 = 1h30
+        - Virtual Lab exam: 10h00 - 11h30 = 1h30
+        - Virtual Lab exam: 13h00 - 14h30 = 1h30
 
-Jeudi Novembre 25:
-CM  8.30 - 11.30 = 3h
-TP 13.00 - 17.00 = 4h30
+## 📢 Information : UCE "Application"
 
-Jeudi Décembre 2
-
-CM (partiel) 8.30 - 10.00 = 1h30
-TP (restitution) 10.30 - 11.30 = 1h30
-TP (restitution) 13.00 - 14.30 = 1h30
-
-Application
+* **Real lab : 10h30 (9h course + 1h30 exam)**
+    * **To be defined:**
+        - [+] To be defined
