@@ -27,3 +27,54 @@
 * **Real lab : 10h30 (9h course + 1h30 exam)**
     * **To be defined:**
         - [+] To be defined
+
+Prerequisites
+
+VM 0 : Beelzebub
+Target : Connect as krampus 
+Type :
+URL : https://www.vulnhub.com/entry/beelzebub-1,742/ 
+Download (Mirror): https://download.vulnhub.com/beelzebub/Beelzebub.zip  
+Help : https://nepcodex.com/2021/09/beelzebub-writeup-vulnhub-walkthrough/ 
+
+VM 1 : Beelzebub
+Target : Connect as krampus 
+Type : 
+URL : https://hackmyvm.eu/machines/machine.php?vm=Gift 
+Download (Mirror): NA
+Help : https://nepcodex.com/2021/09/writeup-of-gift-from-hackmyvm-walkthrough/ 
+
+VM 2 : DOUBLETROUBLE
+Target : Connect as root 
+Type :
+URL : https://www.vulnhub.com/entry/doubletrouble-1,743/ 
+Download (Mirror): https://download.vulnhub.com/doubletrouble/doubletrouble.ova
+Help : https://nepcodex.com/2021/09/doubletrouble-hackmyvm-vulnhub-writeup/ 
+
+VM 3 : Suidy HackMyVM
+Target : Connect as root 
+Type :
+URL : https://hackmyvm.eu/machines/machine.php?vm=suidy 
+Download (Mirror): NA
+Help : https://nepcodex.com/2021/09/suidy-walkthrough-hackmyvm-writeup/ 
+
+VM 4 : Writeup
+Target : Connect as Ariana
+Type :
+URL : https://hackmyvm.eu/machines/machine.php?vm=Pwned 
+Download (Mirror): NA
+Help : https://nepcodex.com/2021/09/writeup-of-pwned-hackmyvm-walkthrough/ 
+
+VM 5 : VIKINGS
+Target : Unzip image 
+Type :
+URL : https://hackmyvm.eu/machines/machine.php?vm=Pwned 
+Download (Mirror): NA
+Help : https://nepcodex.com/2021/09/vikings-writeup-vulnhub-walkthrough/ 
+
+VM 6 : XSS AND MYSQL FILE
+Target : Proof of successful XSS and MYSQL attacks
+Type : XSS and MySQL
+URL : https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/ 
+Download (Mirror): https://download.vulnhub.com/pentesterlab/xss_and_mysql_file.iso 
+Help : https://nepcodex.com/2021/09/suidy-walkthrough-hackmyvm-writeup/ 
