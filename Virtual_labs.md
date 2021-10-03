@@ -24,7 +24,7 @@
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
 * **Hard** :
-    * **VM_694:**
+    * **VM_694: admx-101**
         - [+] Tags: To be defined
         - [+] Targets: To be defined
     * **VM_544: the-planets-mercury**
