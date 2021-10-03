@@ -7,26 +7,26 @@
 
 ## 📢 Virtual Lab : Labs
 * **Easy** :
-    * **VM_O: XP**
+    * **VM_0: XP**
         - [+] Tags: To be defined
         - [+] Targets: To be defined
-    * **VM_1207:**
+    * **VM_207: rickdiculouslyeasy**
         - [+] Tags: Reconnaissance, exploit
-        - [+] Targets: gain access
+        - [+] Targets: gain access only
 * **Medium** :      
-    * **VM_1710:**
+    * **VM_710: vulncms-1**
         - [+] Tags: Reconnaissance, exploit, privilege escalation
         - [+] Targets: gain access, root
-    * **VM_1216:**
+    * **VM_216: basic-pentesting-1**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
-    * **VM_546:**
+    * **VM_546: funbox-ctf**
         - [+] Tags: Reconnaissance, brute force, exploit, web, privilege escalation
         - [+] Targets: webadmin, gain access, root
 * **Hard** :
     * **VM_694:**
         - [+] Tags: To be defined
         - [+] Targets: To be defined
-    * **VM_544: The planets mercury**
+    * **VM_544: the-planets-mercury**
         - [+] Tags: Reconnaissance, exploit, database, privilege escalation
         - [+] Targets: gain access, root
