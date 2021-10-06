@@ -3,7 +3,7 @@
 ## 📢 Information : UCE "Sécurité Web"
 
 * **Course : 10h30 (9h course + 1h30 exam)** : https://github.com/nicosmash/CERI_2021_2022/tree/main/Courses
-* **Virtual Lab : 16h30 (13h30 course + 3h exam)** : https://github.com/nicosmash/CERI_2021_2022/blob/main/Virtual_labs
+* **Virtual Lab : 16h30 (13h30 course + 3h exam)** : https://github.com/nicosmash/CERI_2021_2022/blob/main/Virtual_labs.md
 
 * **Planning:**
     * **Jeudi October 7:**
